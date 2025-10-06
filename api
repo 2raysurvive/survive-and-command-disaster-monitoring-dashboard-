@@ -1,0 +1,11 @@
+const API_CONFIG = {
+    BASE_URL: 'http://localhost:8000',
+    ENDPOINTS: {
+        EVENTS: '/api/events',
+        RAG_QUERY: '/api/v1/rag/query',
+        SYSTEM_HEALTH: '/api/system/health',
+        RAG_METRICS: '/api/v1/rag/metrics',
+        ALERTS: '/api/alerts'
+    },
+    WS_URL: 'ws://localhost:8000/ws'
+};
