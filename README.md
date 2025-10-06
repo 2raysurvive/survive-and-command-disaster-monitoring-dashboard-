@@ -24,7 +24,7 @@ A real-time disaster monitoring and emergency response dashboard with AI-powered
 ### Option 2: Run with Local Server (Recommended)
 ```bash
 # Clone the repository
-git clone https://github.com/your-username/disaster-monitoring-dashboard.git
+git clone https://github.com/2raysurvive/disaster-monitoring-dashboard.git
 cd disaster-monitoring-dashboard
 
 # Install dependencies (optional - for enhanced features)
