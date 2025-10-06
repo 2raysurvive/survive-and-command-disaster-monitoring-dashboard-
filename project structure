@@ -1,0 +1,16 @@
+disaster-monitoring-dashboard/
+│
+├── index.html                 # Main application file
+├── README.md                  # Project documentation
+├── package.json              # Node.js dependencies
+├── server.js                 # Mock backend server
+├── data/                     # Sample data files
+│   ├── events.json
+│   └── teams.json
+├── assets/                   # Static assets
+│   ├── css/
+│   │   └── styles.css
+│   └── js/
+│       └── app.js
+└── screenshots/              # Project screenshots
+    └── dashboard.png
